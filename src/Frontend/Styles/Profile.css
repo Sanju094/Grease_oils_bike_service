@@ -1,0 +1,35 @@
+.profile{
+    display: flex;
+    justify-content:center;
+    align-items:center ;
+    background-color: #e5e7eb;
+
+}
+.heading{
+    text-align: center;
+   
+}
+.content{
+    text-align: center;
+    
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .content {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  

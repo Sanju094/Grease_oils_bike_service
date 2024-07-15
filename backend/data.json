@@ -1,0 +1,28 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "cname": "Oil Service",
+      "description": "Clean and smooth ride",
+      "location": "Erode",
+      "adminUid": "6694b6e034f553db66c30993",
+      "stationName": "Vespa Service Station"
+    },
+    {
+      "id": "2",
+      "cname": "General Service Check-up",
+      "description": "Clean and clear check up",
+      "location": "Erode",
+      "adminUid": "6694b6e034f553db66c30993",
+      "stationName": "Vespa Service Station"
+    },
+    {
+      "id": "1",
+      "cname": "Water wash",
+      "description": "Clean and bright wash",
+      "location": "Perundurai",
+      "adminUid": "669395f6fa5a92031973f9e1",
+      "stationName": "Maruthi Service Station"
+    }
+  ]
+}
