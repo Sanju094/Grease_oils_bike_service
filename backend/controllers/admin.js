@@ -56,7 +56,7 @@ const updateservicestatus = async (req, res) => {
     if(order.status === 'ready')
     {
       const passcode = Math.random().toString(36).slice(-6);
-      mail(ordermail,`Your Vehicle ${order.vnum} is Ready for Delivery`, `Thank you for choosing Our Serive Station.`)
+      mail(ordermail,`Vehicle is Ready for Delivery`, `Your Vehicle ${order.vnum} is ready for delivery. Pick it up as soon as possible. Thank you for choosing Us☺.`)
     }
     await order.save();
     res.status(200).send({
