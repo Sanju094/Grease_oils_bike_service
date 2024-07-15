@@ -86,8 +86,8 @@ Sample photo:
 
 ## Schema Images:
 
-    Register:
-    ![Register](image-1.png)
+Register:
+![Register](image-1.png)
 
-    Service:
-    ![Booked service](image-2.png)
+Service:
+![Booked service](image-2.png)
