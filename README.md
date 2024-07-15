@@ -48,15 +48,15 @@ Json file - It is for storing category based information
 
 2.  Services:
 
-    name
-    email
-    phoneno
-    services
-    vehicle number
-    date
-    userid
-    status
-    station name
+        name
+        email
+        phoneno
+        services
+        vehicle number
+        date
+        userid
+        status
+        station name
 
 3.Category: -> Stored as a json file
 
